@@ -1,0 +1,10 @@
+C:\Users\peter\source\repos\FileEditor\FileEditor\bin\Debug\FileEditor.exe.config
+C:\Users\peter\source\repos\FileEditor\FileEditor\bin\Debug\FileEditor.exe
+C:\Users\peter\source\repos\FileEditor\FileEditor\bin\Debug\FileEditor.pdb
+C:\Users\peter\source\repos\FileEditor\FileEditor\obj\Debug\FileEditor.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\FileEditor\FileEditor\obj\Debug\FileEditor.Main.resources
+C:\Users\peter\source\repos\FileEditor\FileEditor\obj\Debug\FileEditor.Properties.Resources.resources
+C:\Users\peter\source\repos\FileEditor\FileEditor\obj\Debug\FileEditor.csproj.GenerateResource.cache
+C:\Users\peter\source\repos\FileEditor\FileEditor\obj\Debug\FileEditor.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\FileEditor\FileEditor\obj\Debug\FileEditor.exe
+C:\Users\peter\source\repos\FileEditor\FileEditor\obj\Debug\FileEditor.pdb
